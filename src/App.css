@@ -1,0 +1,117 @@
+.App {
+  text-align: center;
+}
+body {
+  background: url("https://wallpapercave.com/wp/wp2305676.jpg") no-repeat center
+    center fixed;
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+.ques1 {
+  margin-left: 520px;
+  margin-right: 520px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.ques2 {
+  margin-left: 600px;
+  margin-right: 600px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.ques3 {
+  margin-left: 400px;
+  margin-right: 400px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.ques4 {
+  margin-left: 610px;
+  margin-right: 610px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.why {
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.country {
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.diet {
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.birth {
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.info {
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.ques5 {
+  margin-left: 490px;
+  margin-right: 490px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.ques6 {
+  margin-left: 550px;
+  margin-right: 550px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.ques7 {
+  margin-left: 490px;
+  margin-right: 490px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.confirm {
+  margin-left: 490px;
+  margin-right: 490px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-weight: bold;
+}
